@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\EaglesProject\EmailServices\bin\Release\netcoreapp3.1\EmailServices.deps.json
+C:\Users\user\Desktop\EaglesProject\EmailServices\bin\Release\netcoreapp3.1\EmailServices.dll
+C:\Users\user\Desktop\EaglesProject\EmailServices\bin\Release\netcoreapp3.1\EmailServices.pdb
+C:\Users\user\Desktop\EaglesProject\EmailServices\bin\Release\netcoreapp3.1\Domains.dll
+C:\Users\user\Desktop\EaglesProject\EmailServices\bin\Release\netcoreapp3.1\Domains.pdb
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.AssemblyInfo.cs
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.csproj.CopyComplete
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.dll
+C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Release\netcoreapp3.1\EmailServices.pdb

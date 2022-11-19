@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\EaglesProject\BL\bin\Release\netstandard2.1\BL.deps.json
+C:\Users\user\Desktop\EaglesProject\BL\bin\Release\netstandard2.1\BL.dll
+C:\Users\user\Desktop\EaglesProject\BL\bin\Release\netstandard2.1\BL.pdb
+C:\Users\user\Desktop\EaglesProject\BL\bin\Release\netstandard2.1\Domains.dll
+C:\Users\user\Desktop\EaglesProject\BL\bin\Release\netstandard2.1\Domains.pdb
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.csproj.CopyComplete
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.dll
+C:\Users\user\Desktop\EaglesProject\BL\obj\Release\netstandard2.1\BL.pdb
