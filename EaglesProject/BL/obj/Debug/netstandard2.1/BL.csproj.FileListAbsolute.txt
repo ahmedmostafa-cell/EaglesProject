@@ -36,3 +36,16 @@ C:\Users\user\Desktop\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCo
 C:\Users\user\Desktop\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
 C:\Users\user\Desktop\EaglesProject\BL\obj\Debug\netstandard2.1\BL.dll
 C:\Users\user\Desktop\EaglesProject\BL\obj\Debug\netstandard2.1\BL.pdb
+E:\New folder\EaglesProject\BL\bin\Debug\netstandard2.1\BL.deps.json
+E:\New folder\EaglesProject\BL\bin\Debug\netstandard2.1\BL.dll
+E:\New folder\EaglesProject\BL\bin\Debug\netstandard2.1\BL.pdb
+E:\New folder\EaglesProject\BL\bin\Debug\netstandard2.1\Domains.dll
+E:\New folder\EaglesProject\BL\bin\Debug\netstandard2.1\Domains.pdb
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.AssemblyReference.cache
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfoInputs.cache
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfo.cs
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInputs.cache
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.dll
+E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.pdb

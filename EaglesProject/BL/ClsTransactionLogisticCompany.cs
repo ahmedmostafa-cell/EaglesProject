@@ -9,10 +9,10 @@ namespace BL
 {
     public interface TransactionLogisticCompanyService
     {
-        List<TbLogisticCompany> getAll();
-        bool Add(TbLogisticCompany client);
-        bool Edit(TbLogisticCompany client);
-        bool Delete(TbLogisticCompany client);
+        List<TransactionLogisticCompany> getAll();
+        bool Add(TransactionLogisticCompany client);
+        bool Edit(TransactionLogisticCompany client);
+        bool Delete(TransactionLogisticCompany client);
 
 
     }
@@ -24,21 +24,21 @@ namespace BL
             ctx = context;
         }
 
-        public List<TbLogisticCompany> getAll()
+        public List<TransactionLogisticCompany> getAll()
         {
             //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
-            List<TbLogisticCompany> lstLogisticCompany = ctx.TbLogisticCompanies.ToList();
+            List<TransactionLogisticCompany> lstTransactionLogisticCompany = ctx.TransactionLogisticCompanies.ToList();
 
-            return lstLogisticCompany;
+            return lstTransactionLogisticCompany;
         }
 
-        public bool Add(TbLogisticCompany item)
+        public bool Add(TransactionLogisticCompany item)
         {
             try
             {
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
-                item.LogisticCompanyId = Guid.NewGuid();
-                ctx.TbLogisticCompanies.Add(item);
+                item.TransactionLogisticCompanyId = Guid.NewGuid();
+                ctx.TransactionLogisticCompanies.Add(item);
                 ctx.SaveChanges();
                 return true;
             }
@@ -48,7 +48,7 @@ namespace BL
 
             }
         }
-        public bool Edit(TbLogisticCompany item)
+        public bool Edit(TransactionLogisticCompany item)
         {
             try
             {
@@ -65,7 +65,7 @@ namespace BL
             }
         }
 
-        public bool Delete(TbLogisticCompany item)
+        public bool Delete(TransactionLogisticCompany item)
         {
             try
             {

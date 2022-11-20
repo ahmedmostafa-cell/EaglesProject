@@ -7,3 +7,13 @@ C:\Users\user\Desktop\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.A
 C:\Users\user\Desktop\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.dll
 C:\Users\user\Desktop\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.pdb
+E:\New folder\EaglesProject\Domains\bin\Release\netstandard2.1\Domains.deps.json
+E:\New folder\EaglesProject\Domains\bin\Release\netstandard2.1\Domains.dll
+E:\New folder\EaglesProject\Domains\bin\Release\netstandard2.1\Domains.pdb
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.csproj.AssemblyReference.cache
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.AssemblyInfoInputs.cache
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.AssemblyInfo.cs
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.dll
+E:\New folder\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.pdb

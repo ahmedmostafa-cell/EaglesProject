@@ -39,6 +39,35 @@ namespace EaglesProject.Models
         public IEnumerable<TbCustomer> lsCustomers { get; set; }
 
 
+
+        public IEnumerable<TbItemCategory> lstItemCategories { get; set; }
+
+        public IEnumerable<TbLogisticCompany> lstLogisticCompanies { get; set; }
+
+
+        public IEnumerable<TbSetting> lstSettings { get; set; }
+
+
+        public IEnumerable<TbTransactionAbdo> lstTransactionAbdos { get; set; }
+
+        public IEnumerable<TbTransactionTurkeyOne> lstTransactionTurkeyOnes { get; set; }
+
+
+        public IEnumerable<TbTransactionTurkeyTwo> lstTransactionTurkeyTwoS { get; set; }
+
+
+        public IEnumerable<TbTurkeyOne> lstTurkeyOnes { get; set; }
+
+
+        public IEnumerable<TbTurkeyTwo> lstTurkeyTwos { get; set; }
+
+
+        public IEnumerable<TbWeightCategory> lstWeightCategories { get; set; }
+
+
+        public IEnumerable<TransactionLogisticCompany> lstTransactionLogisticCompanies { get; set; }
+
+
         #endregion
 
     }

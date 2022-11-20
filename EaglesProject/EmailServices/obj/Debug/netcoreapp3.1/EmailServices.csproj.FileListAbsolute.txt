@@ -23,3 +23,16 @@ C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailS
 C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
 C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
 C:\Users\user\Desktop\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
+E:\New folder\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.deps.json
+E:\New folder\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.dll
+E:\New folder\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.pdb
+E:\New folder\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.dll
+E:\New folder\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.pdb
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.AssemblyReference.cache
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfo.cs
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
+E:\New folder\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb

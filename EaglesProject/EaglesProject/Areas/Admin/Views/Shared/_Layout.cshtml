@@ -17,6 +17,11 @@
 
     <!-- BEGIN: Vendor CSS-->
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/vendors.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/animate/animate.css">
+    <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/extensions/sweetalert2.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/file-uploaders/dropzone.min.css">
+     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/tables/datatable/datatables.min.css">
+    <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/tables/datatable/extensions/dataTables.checkboxes.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/charts/apexcharts.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/extensions/tether-theme-arrows.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/vendors/css/extensions/tether.min.css">
@@ -34,6 +39,8 @@
     <!-- BEGIN: Page CSS-->
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/core/menu/menu-types/vertical-menu.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/core/colors/palette-gradient.css">
+    <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/plugins/file-uploaders/dropzone.css">
+    <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/pages/data-list-view.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/pages/dashboard-analytics.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/pages/card-analytics.css">
     <link rel="stylesheet" type="text/css" href="~/Admin/app-assets/css/plugins/tour/tour.css">
@@ -347,6 +354,14 @@
                         </li>
                     </ul>
                 </li>
+
+
+                 <li class=" nav-item"><a asp-controller="Customer" asp-action="Index"><i class="feather icon-user"></i><span class="menu-title" data-i18n="User">Customers</span></a>
+                    
+                </li>
+
+
+
                 <li class=" navigation-header"><span>UI Elements</span>
                 </li>
                 <li class=" nav-item"><a href="#"><i class="feather icon-list"></i><span class="menu-title" data-i18n="Data List">Data List</span><span class="badge badge badge-primary badge-pill float-right mr-2">New</span></a>
@@ -633,6 +648,15 @@
     <!-- BEGIN Vendor JS-->
 
     <!-- BEGIN: Page Vendor JS-->
+    <script src="~/Admin/app-assets/vendors/js/extensions/sweetalert2.all.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/extensions/polyfill.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/extensions/dropzone.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/tables/datatable/datatables.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/tables/datatable/datatables.buttons.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/tables/datatable/datatables.bootstrap4.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/tables/datatable/buttons.bootstrap.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/tables/datatable/dataTables.select.min.js"></script>
+    <script src="~/Admin/app-assets/vendors/js/tables/datatable/datatables.checkboxes.min.js"></script>
     <script src="~/Admin/app-assets/vendors/js/charts/apexcharts.min.js"></script>
     <script src="~/Admin/app-assets/vendors/js/extensions/tether.min.js"></script>
     <script src="~/Admin/app-assets/vendors/js/extensions/shepherd.min.js"></script>
@@ -645,6 +669,8 @@
     <!-- END: Theme JS-->
 
     <!-- BEGIN: Page JS-->
+    <script src="~/Admin/app-assets/js/scripts/extensions/sweet-alerts.js"></script>
+    <script src="~/Admin/app-assets/js/scripts/ui/data-list-view.js"></script>
     <script src="~/Admin/app-assets/js/scripts/pages/dashboard-analytics.js"></script>
     <!-- END: Page JS-->
 

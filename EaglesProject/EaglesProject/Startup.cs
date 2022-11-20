@@ -54,6 +54,19 @@ namespace EaglesProject
            .Get<EmailConfiguration>();
             services.AddSingleton(emailConfig);
             services.AddScoped<IEmailSender, EmailSender>();
+            services.AddScoped<CustomerService, ClsCustomer>();
+            services.AddScoped<ItemCategoryService, ClsItemCategory>();
+            services.AddScoped<LogisticCompanyService, ClsLogisticCompany>();
+            services.AddScoped<SettingService, ClsSetting>();
+            services.AddScoped<TransactionAbdoService, ClsTransactionAbdo>();
+            services.AddScoped<TransactionLogisticCompanyService, ClsTransactionLogisticCompany>();
+            services.AddScoped<TransactionTurkeyOneService, ClsTransactionTurkeyOne>();
+            services.AddScoped<TransactionTurkeyTwoService, ClsTransactionTurkeyTwo>();
+            services.AddScoped<TurkeyOneService, ClsTurkeyOne>();
+            services.AddScoped<TurkeyOneService, ClsTurkeyOne>();
+            services.AddScoped<TurkeyTwoService, ClsTurkeyTwo>();
+            services.AddScoped<WeightCategoryService, ClsWeightCategory>();
+            
             services.AddDistributedMemoryCache();
             services.AddSession();
             services.AddHttpContextAccessor();

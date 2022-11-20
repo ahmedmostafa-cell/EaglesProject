@@ -26,6 +26,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Admin\Views\ItemCategory\" />
+    <Folder Include="Areas\Admin\Views\LogisticCompany\" />
+    <Folder Include="Areas\Admin\Views\WeightCategory\" />
+    <Folder Include="Areas\Admin\Views\TurkeyTwo\" />
+    <Folder Include="Areas\Admin\Views\TurkeyOne\" />
+    <Folder Include="Areas\Admin\Views\TransactionTurkeyTwo\" />
+    <Folder Include="Areas\Admin\Views\TransactionTurkeyOne\" />
+    <Folder Include="Areas\Admin\Views\TransactionLogisticCompany\" />
+    <Folder Include="Areas\Admin\Views\TransactionAbdo\" />
+    <Folder Include="Areas\Admin\Views\Setting\" />
     <Folder Include="wwwroot\Admin\" />
     <Folder Include="wwwroot\Uploads\" />
   </ItemGroup>
