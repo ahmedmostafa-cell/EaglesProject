@@ -8,17 +8,7 @@
                 <div class="content-header-left col-md-9 col-12 mb-2">
                     <div class="row breadcrumbs-top">
                         <div class="col-12">
-                            <h2 class="content-header-title float-left mb-0">Thumb View</h2>
-                            <div class="breadcrumb-wrapper col-12">
-                                <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="index.html">Home</a>
-                                    </li>
-                                    <li class="breadcrumb-item"><a href="#">Data List</a>
-                                    </li>
-                                    <li class="breadcrumb-item active">Thumb View
-                                    </li>
-                                </ol>
-                            </div>
+                           
                         </div>
                     </div>
                 </div>
@@ -86,8 +76,8 @@
                                      <td class="product-price">@item.CityName</td>
                                       <td class="product-price">@item.AreaName</td>
                                     <td class="product-action">
-                                        <span class="action-edit"><i class="feather icon-edit"></i></span>
-                                        <span class="action-delete"><i class="feather icon-trash"></i></span>
+                                        <a asp-controller="Customer" asp-action="Form" asp-route-id="@item.CustomerId"><span><i class="feather icon-edit"></i></span></a>
+                                        <a asp-controller="Customer" asp-action="Delete" asp-route-id="@item.CustomerId"><span class="action-delete"><i class="feather icon-trash"></i></span></a>
                                     </td>
                                 </tr>
 

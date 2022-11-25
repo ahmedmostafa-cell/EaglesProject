@@ -125,7 +125,7 @@ namespace EaglesProject.Areas.Admin.Controllers
 
         public IActionResult Form(Guid? id)
         {
-            TbCustomer oldItem = ctx.TbCustomers.Where(a => a.CustomerId == id).FirstOrDefault();
+            TbLogisticCompany oldItem = ctx.TbLogisticCompanies.Where(a => a.LogisticCompanyId == id).FirstOrDefault();
 
 
             return View(oldItem);

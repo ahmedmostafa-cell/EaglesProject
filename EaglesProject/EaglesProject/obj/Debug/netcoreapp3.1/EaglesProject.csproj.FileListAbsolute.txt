@@ -470,3 +470,408 @@ E:\New folder\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.
 E:\New folder\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.genruntimeconfig.cache
 E:\New folder\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Index.cshtml.g.cs
 E:\New folder\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.StaticWebAssets.xml
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.exe
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.deps.json
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.runtimeconfig.json
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.runtimeconfig.dev.json
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.Views.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.Views.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BL.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Domains.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EmailServices.dll
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BL.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Domains.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EmailServices.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.AssemblyReference.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.AssemblyInfoInputs.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.AssemblyInfo.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.CoreCompileInputs.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.MvcApplicationPartsAssemblyInfo.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorAssemblyInfo.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorAssemblyInfo.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\staticwebassets\EaglesProject.StaticWebAssets.Manifest.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.TagHelpers.input.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.TagHelpers.output.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorCoreGenerate.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Index.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account2\ExternalLoginConfirmation.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account2\Login.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\AccessDenied.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ForgotPassword.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\LogIn.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ResetPassword.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorTargetAssemblyInfo.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorTargetAssemblyInfo.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.Views.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.CopyComplete
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.dll
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.pdb
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.genruntimeconfig.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ItemCategory\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ItemCategory\Index.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WeightCategory\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WeightCategory\Index.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LogisticCompany\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LogisticCompany\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\appsettings.json
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.StaticWebAssets.xml
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.exe
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.deps.json
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.runtimeconfig.json
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.runtimeconfig.dev.json
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.Views.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.Views.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\MailKit.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BL.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Domains.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EmailServices.dll
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BL.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Domains.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EmailServices.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.AssemblyReference.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.AssemblyInfoInputs.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.AssemblyInfo.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.CoreCompileInputs.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.MvcApplicationPartsAssemblyInfo.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorAssemblyInfo.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorAssemblyInfo.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\staticwebassets\EaglesProject.StaticWebAssets.Manifest.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.TagHelpers.input.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.TagHelpers.output.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorCoreGenerate.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Form.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ItemCategory\Form.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ItemCategory\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LogisticCompany\Form.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LogisticCompany\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WeightCategory\Form.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WeightCategory\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account2\ExternalLoginConfirmation.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account2\Login.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\AccessDenied.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ForgotPassword.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\LogIn.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ResetPassword.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorTargetAssemblyInfo.cache
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorTargetAssemblyInfo.cs
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.Views.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.CopyComplete
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.dll
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.pdb
+G:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.exe
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.deps.json
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.runtimeconfig.json
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.Views.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EaglesProject.Views.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Domains.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EmailServices.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\Domains.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\bin\Debug\netcoreapp3.1\EmailServices.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\staticwebassets\EaglesProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\staticwebassets\EaglesProject.StaticWebAssets.xml
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EaglesProject.styles.css
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.TagHelpers.input.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.TagHelpers.output.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorCoreGenerate.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Customer\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ItemCategory\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ItemCategory\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LogisticCompany\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\LogisticCompany\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WeightCategory\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\WeightCategory\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account2\ExternalLoginConfirmation.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account2\Login.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\ExternalLoginConfirmation.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\AccessDenied.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ForgotPassword.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\LogIn.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\User\ResetPassword.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.Views.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.csproj.CopyComplete
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.dll
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.pdb
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\EaglesProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Setting\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Setting\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TurkeyOne\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TurkeyOne\Index.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TurkeyTwo\Form.cshtml.g.cs
+C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TurkeyTwo\Index.cshtml.g.cs
