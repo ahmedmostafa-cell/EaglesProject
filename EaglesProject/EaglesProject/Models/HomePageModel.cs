@@ -67,7 +67,9 @@ namespace EaglesProject.Models
 
         public IEnumerable<TransactionLogisticCompany> lstTransactionLogisticCompanies { get; set; }
 
+        public IEnumerable<VwWeightPrice> lstVwWeightPrices { get; set; }
 
+        
         #endregion
 
     }

@@ -1,0 +1,301 @@
+﻿@model Domains.TbItemCategory
+
+<div class="app-content content">
+    <div class="content-overlay"></div>
+    <div class="header-navbar-shadow"></div>
+    <div class="content-wrapper">
+        <div class="content-header row">
+            <div class="content-header-left col-md-9 col-12 mb-2">
+                <div class="row breadcrumbs-top">
+                    <div class="col-12">
+                    </div>
+                </div>
+            </div>
+            <div class="content-header-right text-md-right col-md-3 col-12 d-md-block d-none">
+                <div class="form-group breadcrum-right">
+                    <div class="dropdown">
+                        <button class="btn-icon btn btn-primary btn-round btn-sm dropdown-toggle waves-effect waves-light" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="feather icon-settings"></i></button>
+                        <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Chat</a><a class="dropdown-item" href="#">Email</a><a class="dropdown-item" href="#">Calendar</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="content-body">
+
+            <!-- // Basic multiple Column Form section start -->
+            <section id="multiple-column-form">
+                <div class="row match-height">
+                    <div class="col-12">
+                        <div class="card">
+                            <div class="card-header">
+                                <h4 class="card-title">Multiple Column</h4>
+                            </div>
+                            <div class="card-content">
+                                <div class="card-body">
+                                    <form enctype="multipart/form-data" method="post" role="form" asp-controller="ItemCategory" asp-action="Save" class="form">
+                                        <div class="form-body">
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <div class="form-group row">
+                                                        <div class="col-md-4">
+                                                            <span>Weight Category</span>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <select id="basicSelect1" class="form-control" asp-for="ItemCategoryId" asp-items="@(new SelectList(ViewBag.Countries , "ItemCategoryId" , "ItemCategoryName"))">
+                                                                <option selected="selected">
+                                                                    Choose
+                                                                </option>
+                                                            </select>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                       
+                                                        <input type="text" id="weight" class="form-control" placeholder="Item Weight"  >
+                                                        <label> Item Weight</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="weight2" class="form-control" placeholder="Item Weight Price" disabled>
+                                                        <label for="last-name-column">Item Weight Price</label>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="WeightMultiplySize" class="form-control" placeholder="Weight Cost" disabled>
+                                                        <label for="last-name-column">Weight Cost</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="BasicCost" class="form-control" placeholder="Basic Cost" >
+                                                        <label for="last-name-column">Basic Cost</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="LiraExchangeRate" class="form-control" placeholder="Lira Exchange Rate" disabled>
+                                                        <label for="last-name-column">Lira Exchange Rate</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="EgpBasicCost" class="form-control" placeholder="Egyptian Basic Cost" disabled>
+                                                        <label for="last-name-column">Egyptian Basic Cost</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="PieceCost" class="form-control" placeholder="Piece Cost" disabled>
+                                                        <label for="last-name-column">Piece Cost</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="ProfitValue" class="form-control" placeholder="Profit Value" disabled>
+                                                        <label for="last-name-column">Profit Value</label>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 col-12">
+                                                    <div class="form-label-group">
+                                                        <input type="text" id="Total" class="form-control" placeholder="Sale Price" disabled>
+                                                        <label for="last-name-column">Sale Price</label>
+                                                    </div>
+                                                </div>
+
+                                                
+                                              
+
+                                                @* <div class="col-md-6 col-12">
+                                                <div class="form-label-group">
+                                                <input type="email" id="email-id-column" class="form-control" name="email-id-column" placeholder="Email">
+                                                <label for="email-id-column">Email</label>
+                                                </div>
+                                                </div>*@
+
+                                                <div class="col-12">
+                                                    <button id="bounce-in-animation" type="submit" class="btn btn-primary mr-1 mb-1 waves-effect waves-light">Submit</button>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- // Basic Floating Label Form section end -->
+
+        </div>
+    </div>
+</div>
+
+<script>
+    let data ="";
+    let profit;
+    let finalProfit;
+    var response;
+   
+    let weight = document.getElementById('weight');
+    let weight2 = document.getElementById('weight2');
+    let WeightMultiplySize = document.getElementById('WeightMultiplySize');
+    let LiraExchangeRate = document.getElementById('LiraExchangeRate');
+    let BasicCost = document.getElementById('BasicCost');
+    let EgpBasicCost = document.getElementById('EgpBasicCost');
+    let PieceCost = document.getElementById('PieceCost');
+    let ProfitValue = document.getElementById('ProfitValue');
+    let Total = document.getElementById('Total');
+    
+    const request = new XMLHttpRequest();
+    
+   
+    request.open('GET', 'https://alsalamtravel.co.uk/api/ItemCategoryApi');
+    request.send();
+    request.addEventListener('load', function(){
+        console.log(this.responseText);
+        data = this.responseText;
+        response = $.parseJSON(this.responseText);
+        console.log(response);
+        function ahmed (response) {
+            $('#basicSelect1').change(function () {
+                console.log(response[0]);
+                for (var i = 0; i < response.length; i++){
+                    if ($(this).val() === response[i].itemCategoryId) {
+                        weight.value = response[i].itemWeight;
+                        weight2.value = response[i].weightPrice;
+                        WeightMultiplySize.value = weight.value * weight2.value
+                    }
+                }
+               
+                profit = ((parseInt(WeightMultiplySize.value) + parseInt(EgpBasicCost.value) + parseInt(PieceCost.value)) * 27) / 100;
+              
+                if (profit < 130) {
+                    finalProfit = 130;
+                }
+                else if (profit > 500) {
+                    finalProfit = 500
+                }
+                else {
+                    finalProfit = profit
+                }
+                ProfitValue.value = finalProfit
+                Total.value = parseInt(WeightMultiplySize.value) + parseInt(EgpBasicCost.value) + parseInt(PieceCost.value) + parseInt(ProfitValue.value);
+
+            });
+        }
+        ahmed(response);
+        $('#weight').change(function () {
+
+            WeightMultiplySize.value = weight.value * weight2.value
+            profit = ((parseInt(WeightMultiplySize.value) + parseInt(EgpBasicCost.value) + parseInt(PieceCost.value)) * 27) / 100;
+
+            if (profit < 130) {
+                finalProfit = 130;
+            }
+            else if (profit > 500) {
+                finalProfit = 500
+            }
+            else {
+                finalProfit = profit
+            }
+            ProfitValue.value = finalProfit
+            Total.value = parseInt(WeightMultiplySize.value) + parseInt(EgpBasicCost.value) + parseInt(PieceCost.value) + parseInt(ProfitValue.value);
+
+        });
+        $('#weight2').change(function () {
+
+            WeightMultiplySize.value = weight.value * weight2.value
+
+        });
+       
+      
+    });
+    const request2 = new XMLHttpRequest();
+    request2.open('GET', 'https://alsalamtravel.co.uk/api/SettingsApi');
+    request2.send();
+    request2.addEventListener('load', function () {
+        console.log(this.responseText);
+        data = this.responseText;
+        response = $.parseJSON(this.responseText);
+        console.log(response);
+        function ahmed2(response) {
+
+            LiraExchangeRate.value = response[0].liraExchangeRate;
+            PieceCost.value = response[0].pieceCost
+        }
+        ahmed2(response);
+        $('#BasicCost').change(function () {
+
+            EgpBasicCost.value = BasicCost.value * LiraExchangeRate.value;
+             profit = ((parseInt(WeightMultiplySize.value) + parseInt(EgpBasicCost.value) + parseInt(PieceCost.value)) * 27) / 100;
+              
+                if (profit < 130) {
+                    finalProfit = 130;
+                }
+                else if (profit > 500) {
+                    finalProfit = 500
+                }
+                else {
+                    finalProfit = profit
+                }
+                ProfitValue.value = finalProfit
+                Total.value = parseInt(WeightMultiplySize.value) + parseInt(EgpBasicCost.value) + parseInt(PieceCost.value) + parseInt(ProfitValue.value);
+           
+
+        });
+        $('#LiraExchangeRate').change(function () {
+
+            EgpBasicCost.value = BasicCost.value * LiraExchangeRate.value;
+
+        });
+       
+
+    });
+   
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

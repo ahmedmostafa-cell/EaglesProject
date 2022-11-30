@@ -26,3 +26,13 @@ C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Release
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.dll
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.pdb
+E:\EaglesProject\EaglesProject\Domains\bin\Release\netstandard2.1\Domains.deps.json
+E:\EaglesProject\EaglesProject\Domains\bin\Release\netstandard2.1\Domains.dll
+E:\EaglesProject\EaglesProject\Domains\bin\Release\netstandard2.1\Domains.pdb
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.csproj.AssemblyReference.cache
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.GeneratedMSBuildEditorConfig.editorconfig
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.AssemblyInfoInputs.cache
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.AssemblyInfo.cs
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.dll
+E:\EaglesProject\EaglesProject\Domains\obj\Release\netstandard2.1\Domains.pdb

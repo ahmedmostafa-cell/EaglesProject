@@ -66,3 +66,13 @@ C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Debug\n
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.dll
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.pdb
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\bin\Debug\netstandard2.1\Domains.deps.json
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\bin\Debug\netstandard2.1\Domains.dll
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\bin\Debug\netstandard2.1\Domains.pdb
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.AssemblyReference.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfoInputs.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.AssemblyInfo.cs
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.csproj.CoreCompileInputs.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.dll
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\Domains\obj\Debug\netstandard2.1\Domains.pdb

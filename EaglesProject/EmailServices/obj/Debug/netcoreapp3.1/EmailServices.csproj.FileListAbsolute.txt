@@ -74,3 +74,16 @@ C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EmailServices\obj\D
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
 C:\Users\user\Desktop\New folder\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csprojAssemblyReference.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.deps.json
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.dll
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.pdb
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.dll
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\bin\Debug\netcoreapp3.1\Domains.pdb
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.AssemblyReference.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfo.cs
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CopyComplete
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
+C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb
