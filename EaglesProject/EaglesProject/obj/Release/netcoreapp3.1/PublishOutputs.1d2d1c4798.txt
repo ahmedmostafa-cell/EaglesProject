@@ -3102,10 +3102,16 @@ E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Ou
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Templates\SendEmailToAdmin.html
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Templates\SendEmailToCustomer NotConfirmed.html
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Templates\SendEmailToCustomer.html
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\06bac3df-cfd6-4d0b-b6a3-fa6ff05daed9.jpg
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\076a1ada-727f-42e6-89b7-0250d7920697.jpg
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\7b41ac55-c21e-4c93-a003-0910387b4b03.jpg
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\9123dce1-c957-419a-8fb8-b0940d96877b.jpg
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\99993784-26ab-4c1d-a1da-f8f2cf62cdfe.jpg
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\a2b501dd-1845-438f-9a10-031de3c3d06c.jpg
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\b2dc8be2-c03f-4b25-a927-2785c7086e25.jpg
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\b3950da0-37e2-4627-bf27-8b8c9ccb09e9.jpg
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\b864b958-ecb9-490f-936b-d18ffa4b0bcc.jpg
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\Uploads\d247f528-01b6-4dd4-a8d4-1cb62ff73a15.jpg
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\PubTmp\Out\EaglesProject.dll

@@ -1021,3 +1021,5 @@ E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TurkeyTwo\Form.cshtml.g.cs
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TurkeyTwo\Index.cshtml.g.cs
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\CalculateAdd.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TransactionTurkeyOne\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TransactionTurkeyOne\Index.cshtml.g.cs

@@ -1,4 +1,5 @@
 ﻿using Domains;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -9,6 +10,7 @@ namespace BL
 {
     public interface TransactionTurkeyOneService
     {
+       
         List<TbTransactionTurkeyOne> getAll();
         bool Add(TbTransactionTurkeyOne client);
         bool Edit(TbTransactionTurkeyOne client);
@@ -38,6 +40,8 @@ namespace BL
             {
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
                 item.TransactionTurkeyOneId = Guid.NewGuid();
+                item.CreatedDate = DateTime.Now;
+               
                 ctx.TbTransactionTurkeyOnes.Add(item);
                 ctx.SaveChanges();
                 return true;

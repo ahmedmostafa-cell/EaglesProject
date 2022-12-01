@@ -32,6 +32,7 @@ namespace EaglesProject.Areas.Admin.Controllers
         public IActionResult CalculateAdd()
         {
             ViewBag.Countries = itemCategoryService.getAll();
+            ViewBag.Customers = customerService.getAll();
             return View();
         }
     }

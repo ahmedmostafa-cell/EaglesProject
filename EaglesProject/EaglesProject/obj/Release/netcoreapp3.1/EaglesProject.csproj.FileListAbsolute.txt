@@ -529,3 +529,5 @@ E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\EaglesPro
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\EaglesProject.dll
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\EaglesProject.pdb
 E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\EaglesProject.genruntimeconfig.cache
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\TransactionTurkeyOne\Form.cshtml.g.cs
+E:\EaglesProject\EaglesProject\EaglesProject\obj\Release\netcoreapp3.1\Razor\Areas\Admin\Views\TransactionTurkeyOne\Index.cshtml.g.cs

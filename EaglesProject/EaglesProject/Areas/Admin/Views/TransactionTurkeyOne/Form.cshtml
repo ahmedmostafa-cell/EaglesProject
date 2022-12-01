@@ -1,0 +1,210 @@
+﻿@model Domains.TbTransactionTurkeyOne
+
+<div class="app-content content">
+        <div class="content-overlay"></div>
+        <div class="header-navbar-shadow"></div>
+        <div class="content-wrapper">
+            <div class="content-header row">
+                <div class="content-header-left col-md-9 col-12 mb-2">
+                    <div class="row breadcrumbs-top">
+                        <div class="col-12">
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="content-header-right text-md-right col-md-3 col-12 d-md-block d-none">
+                    <div class="form-group breadcrum-right">
+                        <div class="dropdown">
+                            <button class="btn-icon btn btn-primary btn-round btn-sm dropdown-toggle waves-effect waves-light" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="feather icon-settings"></i></button>
+                            <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Chat</a><a class="dropdown-item" href="#">Email</a><a class="dropdown-item" href="#">Calendar</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-body">
+              
+                <!-- // Basic multiple Column Form section start -->
+                <section id="multiple-column-form">
+                    <div class="row match-height">
+                        <div class="col-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4 class="card-title">Multiple Column</h4>
+                                </div>
+                                <div class="card-content">
+                                    <div class="card-body">
+                                    <form enctype="multipart/form-data" method="post" role="form" asp-controller="TransactionTurkeyOne" asp-action="Save" class="form">
+                                            <div class="form-body">
+                                                <div class="row">
+
+                                                
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                            <input asp-for="TransactionTurkeyOneId" type="hidden" class="form-control">
+                                                            <select class="select2 form-control select2-hidden-accessible" asp-for="CustomerId" asp-items="@(new SelectList(ViewBag.Customers , "CustomerId" , "CustomerName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                            </select>
+                                                            <label for="first-name-column"> Customer Name</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <fieldset class="form-group">
+
+                                                            <div class="custom-file">
+                                                                <input type="file" name="files" class="custom-file-input" id="inputGroupFile01">
+                                                                <label class="custom-file-label" for="inputGroupFile01">Item Image</label>
+                                                            </div>
+                                                        </fieldset>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="last-name-column" class="form-control" placeholder="Basic Cost Lira" asp-for="BasicCostLira">
+                                                        <label for="last-name-column">Basic Cost Lira</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="city-column" class="form-control" placeholder="Basic Cost Egp" asp-for="BasicCostEgp">
+                                                        <label for="city-column">Basic Cost Egp</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+
+                                                        <select class="select2 form-control select2-hidden-accessible" asp-for="ItemCategoryId" asp-items="@(new SelectList(ViewBag.Countries , "ItemCategoryId" , "ItemCategoryName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                            </select>
+                                                            <label for="first-name-column"> Customer Name</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+
+                                                        <select class="select2 form-control select2-hidden-accessible" asp-for="WeightCategoryId" asp-items="@(new SelectList(ViewBag.Cities , "WeightCategoryId" , "WeightCategoryName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                            </select>
+                                                            <label for="first-name-column"> Customer Name</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="country-floating" class="form-control" asp-for="ItemWeight" placeholder="Item Weight">
+                                                        <label for="country-floating">Item Weight</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="WeightPrice" placeholder="Weight Price">
+                                                        <label for="company-column">Weight Price</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="PieceCost" placeholder="Piece Cost">
+                                                        <label for="company-column">Piece Cost</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="MarginValue" placeholder="Margin Value">
+                                                        <label for="company-column">Margin Value</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="SalesPrice" placeholder="Sales Price">
+                                                        <label for="company-column">Sales Price</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="DepositValue" placeholder="Deposit Value">
+                                                        <label for="company-column">Deposit Value</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="Size" placeholder="Size">
+                                                        <label for="company-column">Size</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input type="text" id="company-column" class="form-control" asp-for="CreatedDate" placeholder="Created Date">
+                                                        <label for="company-column"> Created Date</label>
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+
+                                                        <select class="select2 form-control select2-hidden-accessible" asp-for="CreatedBy" asp-items="@(new SelectList(ViewBag.Users , "Id" , "FirstName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                            </select>
+                                                            <label for="first-name-column"> Customer Name</label>
+                                                        </div>
+                                                    </div>
+
+                                                @* <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                            <input type="email" id="email-id-column" class="form-control" name="email-id-column" placeholder="Email">
+                                                            <label for="email-id-column">Email</label>
+                                                        </div>
+                                                    </div>*@
+                                                  
+                                                    <div class="col-12">
+                                                    <button id="bounce-in-animation" type="submit" class="btn btn-primary mr-1 mb-1 waves-effect waves-light">Submit</button>
+                                                       
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- // Basic Floating Label Form section end -->
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

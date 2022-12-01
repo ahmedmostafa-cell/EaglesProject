@@ -27,7 +27,6 @@
 
   <ItemGroup>
     <Folder Include="Areas\Admin\Views\TransactionTurkeyTwo\" />
-    <Folder Include="Areas\Admin\Views\TransactionTurkeyOne\" />
     <Folder Include="Areas\Admin\Views\TransactionLogisticCompany\" />
     <Folder Include="Areas\Admin\Views\TransactionAbdo\" />
     <Folder Include="wwwroot\Admin\" />
