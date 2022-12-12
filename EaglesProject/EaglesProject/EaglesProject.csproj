@@ -26,11 +26,15 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Views\TransactionTurkeyTwo\" />
-    <Folder Include="Areas\Admin\Views\TransactionLogisticCompany\" />
-    <Folder Include="Areas\Admin\Views\TransactionAbdo\" />
     <Folder Include="wwwroot\Admin\" />
     <Folder Include="wwwroot\Uploads\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Areas\Admin\Views\TransactionLogisticCompany\Form2.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
   </ItemGroup>
 
 </Project>

@@ -28,7 +28,7 @@
                     <div class="action-btns">
                         <div class="btn-dropdown mr-1 mb-1">
                             <div class="btn-group dropdown actions-dropodown">
-                            <a asp-controller="Customer" asp-action="Form"><button class="btn btn-primary mr-1 mb-1">NEW CUSTOMER </button></a>
+                          
                             </div>
                         </div>
                     </div>
@@ -58,6 +58,7 @@
                                     <th>CREATED BY</th>
                                     <th>CREATED DATE </th>
                                     <th>DEPOSIT VALUE </th>
+                                    <th>TurkeyOne Agent </th>
                                    @* <th>POPULARITY</th>*@
                                    @* <th>ORDER STATUS</th>*@
                                  
@@ -107,10 +108,11 @@
                                     <td class="product-category">@USERmANAGER.Users.Where(a => a.Id == item.CreatedBy).FirstOrDefault().FirstName</td>
                                     <td class="product-price">@item.CreatedDate</td>
                                     <td class="product-price">@item.DepositValue</td>
-
+                                    <td class="product-price">@Model.lstTurkeyOnes.Where(a=> a.TurkeyOneId == Guid.Parse(item.Notes)).FirstOrDefault().TurkeyOneName</td>
                                     <td class="product-action">
                                         <a asp-controller="TransactionTurkeyOne" asp-action="Form" asp-route-id="@item.TransactionTurkeyOneId"><span><i class="feather icon-edit"></i></span></a>
                                         <a asp-controller="TransactionTurkeyOne" asp-action="Delete" asp-route-id="@item.TransactionTurkeyOneId"><span class="action-delete"><i class="feather icon-trash"></i></span></a>
+                                        <a asp-controller="TransactionTurkeyTwo" asp-action="Form2" asp-route-id="@item.TransactionTurkeyOneId"><span class="action-delete">Move To Turkey Two</span></a>
                                     </td>
                                 </tr>
 

@@ -41,7 +41,7 @@ namespace BL
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
                 item.TransactionTurkeyOneId = Guid.NewGuid();
                 item.CreatedDate = DateTime.Now;
-               
+                item.CurrentState = 1;
                 ctx.TbTransactionTurkeyOnes.Add(item);
                 ctx.SaveChanges();
                 return true;
@@ -56,9 +56,15 @@ namespace BL
         {
             try
             {
+                if(item.CurrentState != 0)
+                {
+                    item.CurrentState = 1;
+                }
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
-
+               
+                item.UpdatedDate = DateTime.Now;
                 ctx.Entry(item).State = EntityState.Modified;
+                
                 ctx.SaveChanges();
                 return true;
             }

@@ -12,6 +12,7 @@ using EaglesProject.Models;
 using System.Linq;
 using System.IO;
 using EmailService;
+using static System.Net.WebRequestMethods;
 
 namespace EaglesProject.Controllers
 {
@@ -38,6 +39,64 @@ namespace EaglesProject.Controllers
         {
 
             return View();
+        }
+        public IActionResult Views(string id)
+        {
+            HomePageModel oHomePageModel = new HomePageModel();
+            oHomePageModel.UserData = Ctx.Users.ToList();
+            oHomePageModel.OneUser = Usermanager.Users.Where(a => a.Id == id).FirstOrDefault();
+            return View(oHomePageModel);
+        }
+        public IActionResult Edit(string id)
+        {
+            HomePageModel oHomePageModel = new HomePageModel();
+            oHomePageModel.UserData = Ctx.Users.ToList();
+            oHomePageModel.OneUser = Usermanager.Users.Where(a => a.Id == id).FirstOrDefault();
+            return View(oHomePageModel);
+        }
+        [HttpPost]
+        public async Task<IActionResult> EditUserAsync(ApplicationUser u, string username , string email , string firstname , List<IFormFile> files)
+        {
+
+
+            var user = await Usermanager.FindByEmailAsync(email);
+
+            user.UserName = u.UserName;
+            user.Email = u.Email;
+            user.FirstName = u.FirstName;
+            foreach (var file in files)
+            {
+                if (file.Length > 0)
+                {
+                    string ImageName = Guid.NewGuid().ToString() + ".jpg";
+                    var filePaths = Path.Combine(Directory.GetCurrentDirectory(), @"wwwroot\Uploads", ImageName);
+                    using (var stream = System.IO.File.Create(filePaths))
+                    {
+                        await file.CopyToAsync(stream);
+                    }
+                    user.image = ImageName;
+                }
+            }
+
+
+
+
+
+
+
+            var result = await Usermanager.UpdateAsync(user);
+
+
+            var a = result;
+
+
+
+
+
+
+
+
+            return RedirectToAction(nameof(HomeController.Index), "Home");
         }
         public IActionResult Register()
         {

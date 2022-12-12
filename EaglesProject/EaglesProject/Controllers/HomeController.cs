@@ -1,6 +1,8 @@
-﻿using EaglesProject.Models;
+﻿using BL;
+using EaglesProject.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Org.BouncyCastle.Crypto.Signers;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -12,15 +14,18 @@ namespace EaglesProject.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        EaglesDatabaseContext ctx;
+        public HomeController(EaglesDatabaseContext Ctx,ILogger<HomeController> logger)
         {
             _logger = logger;
+            ctx = Ctx;
         }
 
         public IActionResult Index()
         {
-            return View();
+            HomePageModel oHomePageModel = new HomePageModel();
+            oHomePageModel.UserData = ctx.Users.ToList();
+            return View(oHomePageModel);
         }
 
         public IActionResult Privacy()

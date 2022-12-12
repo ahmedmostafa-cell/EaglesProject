@@ -15,6 +15,7 @@ namespace EaglesProject.Areas.Admin.Controllers
     [Area("Admin")]
     public class TransactionTurkeyOneController : Controller
     {
+        TurkeyOneService turkeyOneService;
         WeightCategoryService weightCategoryService;
         ItemCategoryService itemCategoryService;
         TransactionTurkeyOneService transactionTurkeyOneService;
@@ -24,7 +25,7 @@ namespace EaglesProject.Areas.Admin.Controllers
         CustomerService customerService;
         EaglesDatabaseContext ctx;
         UserManager<ApplicationUser> Usermanager;
-        public TransactionTurkeyOneController(WeightCategoryService WightCategoryService, ItemCategoryService ItemCategoryService, TransactionTurkeyOneService TransactionTurkeyOneService,TransactionAbdoService TransactionAbdoService, SettingService SettingService, LogisticCompanyService LogisticCompanyService, CustomerService CustomerService, UserManager<ApplicationUser> usermanager, EaglesDatabaseContext context)
+        public TransactionTurkeyOneController(TurkeyOneService TurkeyOneService, WeightCategoryService WightCategoryService, ItemCategoryService ItemCategoryService, TransactionTurkeyOneService TransactionTurkeyOneService,TransactionAbdoService TransactionAbdoService, SettingService SettingService, LogisticCompanyService LogisticCompanyService, CustomerService CustomerService, UserManager<ApplicationUser> usermanager, EaglesDatabaseContext context)
         {
 
             ctx = context;
@@ -36,6 +37,7 @@ namespace EaglesProject.Areas.Admin.Controllers
             transactionTurkeyOneService = TransactionTurkeyOneService;
             itemCategoryService = ItemCategoryService;
             weightCategoryService = WightCategoryService;
+            turkeyOneService = TurkeyOneService;
         }
         public IActionResult Index()
         {
@@ -43,11 +45,12 @@ namespace EaglesProject.Areas.Admin.Controllers
             model.lsCustomers = customerService.getAll();
             model.lstLogisticCompanies = logisticCompanyService.getAll();
             model.lstSettings = settingService.getAll();
-            model.lstTransactionAbdos = transactionAbdoService.getAll();
-            model.lstTransactionTurkeyOnes = transactionTurkeyOneService.getAll();
+            model.lstTransactionAbdos = transactionAbdoService.getAll().Where(a => a.CurrentState == 1);
+            model.lstTransactionTurkeyOnes = transactionTurkeyOneService.getAll().Where(a => a.CurrentState == 1);
             model.lstItemCategories = itemCategoryService.getAll();
             model.lstUsers = Usermanager.Users;
             model.lstWeightCategories = weightCategoryService.getAll();
+            model.lstTurkeyOnes = turkeyOneService.getAll();
             return View(model);
 
 
@@ -116,11 +119,12 @@ namespace EaglesProject.Areas.Admin.Controllers
             model.lsCustomers = customerService.getAll();
             model.lstLogisticCompanies = logisticCompanyService.getAll();
             model.lstSettings = settingService.getAll();
-            model.lstTransactionAbdos = transactionAbdoService.getAll();
-            model.lstTransactionTurkeyOnes = transactionTurkeyOneService.getAll();
+            model.lstTransactionAbdos = transactionAbdoService.getAll().Where(a => a.CurrentState == 1);
+            model.lstTransactionTurkeyOnes = transactionTurkeyOneService.getAll().Where(a => a.CurrentState == 1);
             model.lstItemCategories = itemCategoryService.getAll();
             model.lstUsers = Usermanager.Users;
             model.lstWeightCategories = weightCategoryService.getAll();
+            model.lstTurkeyOnes = turkeyOneService.getAll();
             return View("Index", model);
         }
 
@@ -139,11 +143,12 @@ namespace EaglesProject.Areas.Admin.Controllers
             model.lsCustomers = customerService.getAll();
             model.lstLogisticCompanies = logisticCompanyService.getAll();
             model.lstSettings = settingService.getAll();
-            model.lstTransactionAbdos = transactionAbdoService.getAll();
-            model.lstTransactionTurkeyOnes = transactionTurkeyOneService.getAll();
+            model.lstTransactionAbdos = transactionAbdoService.getAll().Where(a => a.CurrentState == 1);
+            model.lstTransactionTurkeyOnes = transactionTurkeyOneService.getAll().Where(a => a.CurrentState == 1);
             model.lstItemCategories = itemCategoryService.getAll();
             model.lstUsers = Usermanager.Users;
             model.lstWeightCategories = weightCategoryService.getAll();
+            model.lstTurkeyOnes = turkeyOneService.getAll();
             return View("Index", model);
 
 
@@ -161,6 +166,7 @@ namespace EaglesProject.Areas.Admin.Controllers
             ViewBag.Countries = itemCategoryService.getAll();
             ViewBag.Cities = weightCategoryService.getAll();
             ViewBag.Users = Usermanager.Users;
+            ViewBag.TurkeyOne = turkeyOneService.getAll();
             return View(oldItem);
         }
     }

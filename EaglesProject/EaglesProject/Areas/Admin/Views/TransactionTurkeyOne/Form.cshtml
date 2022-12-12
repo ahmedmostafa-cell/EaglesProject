@@ -139,7 +139,17 @@
                                                             <label for="first-name-column"> Customer Name</label>
                                                         </div>
                                                     </div>
+                                                <div class="col-12 mb-2">
+                                                    <a target="_blank">TurkeyOne Name </a>
+                                                </div>
+                                                <div class="col-sm-6 col-12" data-select2-id="127">
 
+
+                                                    <div class="form-group" data-select2-id="126">
+                                                        <select class="select2 form-control select2-hidden-accessible" asp-for="Notes" asp-items="@(new SelectList(ViewBag.TurkeyOne , "TurkeyOneId" , "TurkeyOneName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                        </select>
+                                                    </div>
+                                                </div>
                                                 @* <div class="col-md-6 col-12">
                                                         <div class="form-label-group">
                                                             <input type="email" id="email-id-column" class="form-control" name="email-id-column" placeholder="Email">

@@ -76,7 +76,8 @@ namespace EaglesProject
                 options.Password.RequiredLength = 1;
                 options.Password.RequireNonAlphanumeric = false;
                 options.Password.RequireUppercase = false;
-                options.User.RequireUniqueEmail = true;
+                options.User.RequireUniqueEmail = false;
+                
                 options.Password.RequireDigit = false;
 
             }).AddErrorDescriber<CustomIdentityErrorDescriber>().AddEntityFrameworkStores<EaglesDatabaseContext>().AddDefaultTokenProviders();

@@ -27,6 +27,10 @@ namespace Domains
         public DateTime? UpdatedDate { get; set; }
         public int? CurrentState { get; set; }
         public string Notes { get; set; }
+        public Guid? TurkeyTwoId { get; set; }
+
+
+        public Guid? LogisticCompanyId { get; set; }
         public int? DepositValue { get; set; }
     }
 }

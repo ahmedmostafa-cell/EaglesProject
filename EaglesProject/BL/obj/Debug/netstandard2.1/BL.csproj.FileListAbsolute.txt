@@ -49,19 +49,6 @@ E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInp
 E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
 E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.dll
 E:\New folder\EaglesProject\BL\obj\Debug\netstandard2.1\BL.pdb
-E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.deps.json
-E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.dll
-E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.pdb
-E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\Domains.dll
-E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\Domains.pdb
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.AssemblyReference.cache
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.GeneratedMSBuildEditorConfig.editorconfig
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfoInputs.cache
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfo.cs
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInputs.cache
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.dll
-E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.pdb
 G:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.deps.json
 G:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.dll
 G:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.pdb
@@ -100,3 +87,16 @@ C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\BL\obj\Debug\netstandard
 C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
 C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.dll
 C:\Users\Next Store\Desktop\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.pdb
+E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.deps.json
+E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.dll
+E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\BL.pdb
+E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\Domains.dll
+E:\EaglesProject\EaglesProject\BL\bin\Debug\netstandard2.1\Domains.pdb
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.AssemblyReference.cache
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfoInputs.cache
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.AssemblyInfo.cs
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CoreCompileInputs.cache
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.csproj.CopyComplete
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.dll
+E:\EaglesProject\EaglesProject\BL\obj\Debug\netstandard2.1\BL.pdb

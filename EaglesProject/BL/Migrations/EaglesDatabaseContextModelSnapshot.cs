@@ -319,6 +319,9 @@ namespace BL.Migrations
                     b.Property<double?>("ItemWeight")
                         .HasColumnType("float");
 
+                    b.Property<Guid?>("LogisticCompanyId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<int?>("MarginPercent")
                         .HasColumnType("int");
 
@@ -338,6 +341,9 @@ namespace BL.Migrations
                     b.Property<string>("Size")
                         .HasMaxLength(450)
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<Guid?>("TurkeyTwoId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("UpdatedBy")
                         .HasMaxLength(450)
@@ -399,6 +405,9 @@ namespace BL.Migrations
                     b.Property<double?>("ItemWeight")
                         .HasColumnType("float");
 
+                    b.Property<Guid?>("LogisticCompanyId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<int?>("MarginPercent")
                         .HasColumnType("int");
 
@@ -418,6 +427,9 @@ namespace BL.Migrations
                     b.Property<string>("Size")
                         .HasMaxLength(450)
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<Guid?>("TurkeyTwoId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("UpdatedBy")
                         .HasMaxLength(450)
@@ -479,6 +491,9 @@ namespace BL.Migrations
                     b.Property<double?>("ItemWeight")
                         .HasColumnType("float");
 
+                    b.Property<Guid?>("LogisticCompanyId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<int?>("MarginPercent")
                         .HasColumnType("int");
 
@@ -498,6 +513,9 @@ namespace BL.Migrations
                     b.Property<string>("Size")
                         .HasMaxLength(450)
                         .HasColumnType("nvarchar(450)");
+
+                    b.Property<Guid?>("TurkeyTwoId")
+                        .HasColumnType("uniqueidentifier");
 
                     b.Property<string>("UpdatedBy")
                         .HasMaxLength(450)
@@ -679,6 +697,9 @@ namespace BL.Migrations
                     b.Property<double?>("ItemWeight")
                         .HasColumnType("float");
 
+                    b.Property<Guid?>("LogisticCompanyId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<int?>("MarginPercent")
                         .HasColumnType("int");
 
@@ -699,6 +720,9 @@ namespace BL.Migrations
                         .HasMaxLength(450)
                         .HasColumnType("nvarchar(450)");
 
+                    b.Property<Guid?>("TurkeyTwoId")
+                        .HasColumnType("uniqueidentifier");
+
                     b.Property<string>("UpdatedBy")
                         .HasMaxLength(450)
                         .HasColumnType("nvarchar(450)");
@@ -715,6 +739,31 @@ namespace BL.Migrations
                     b.HasKey("TransactionLogisticCompanyId");
 
                     b.ToTable("TransactionLogisticCompany");
+                });
+
+            modelBuilder.Entity("Domains.VwWeightPrice", b =>
+                {
+                    b.Property<Guid>("ItemCategoryId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("ItemCategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double?>("ItemWeight")
+                        .HasColumnType("float");
+
+                    b.Property<Guid?>("WeightCategoryId")
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("WeightCategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double?>("WeightPrice")
+                        .HasColumnType("float");
+
+                    b.ToView("VwWeightPrice");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

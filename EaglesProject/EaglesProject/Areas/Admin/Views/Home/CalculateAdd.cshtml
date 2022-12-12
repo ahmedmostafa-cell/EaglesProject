@@ -78,7 +78,7 @@
                                                 </div>
                                                 <div class="col-md-6 col-12">
                                                     <div class="form-label-group">
-                                                        <input asp-for="BasicCostLira" type="text" id="BasicCost" class="form-control" placeholder="Basic Cost" >
+                                                        <input asp-for="BasicCostLira" style="background-color:blue;" type="text" id="BasicCost" class="form-control" placeholder="Basic Cost">
                                                         <label for="last-name-column">Basic Cost</label>
                                                     </div>
                                                 </div>
@@ -114,7 +114,7 @@
                                                 </div>
                                                 <div class="col-md-6 col-12">
                                                     <div class="form-label-group">
-                                                        <input asp-for="DepositValue" type="text" class="form-control" placeholder="Deposit Value">
+                                                        <input asp-for="DepositValue" style="background-color:blue;" type="text" class="form-control" placeholder="Deposit Value">
                                                         <label for="last-name-column">Deposi tValue</label>
                                                     </div>
                                                 </div>
@@ -127,15 +127,28 @@
                                                         </div>
                                                     </fieldset>
                                                 </div>
+                                               
+
                                                 <div class="col-12 mb-2">
-                                                    <a href="https://select2.org/getting-started/installation" target="_blank">Customer Name </a>
+                                                    <a target="_blank">TurkeyOne Name </a>
                                                 </div>
                                                 <div class="col-sm-6 col-12" data-select2-id="127">
-                                                    
-                                                    
+
+
+                                                    <div class="form-group" data-select2-id="126">
+                                                        <select class="select2 form-control select2-hidden-accessible" asp-for="Notes" asp-items="@(new SelectList(ViewBag.TurkeyOne , "TurkeyOneId" , "TurkeyOneName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                        </select>
+                                                    </div>
+                                                </div>
+
+                                                <div class="col-12 mb-2">
+                                                    <a target="_blank">TurkeyOne Name </a>
+                                                </div>
+                                                <div class="col-sm-6 col-12" data-select2-id="127">
+
+
                                                     <div class="form-group" data-select2-id="126">
                                                         <select class="select2 form-control select2-hidden-accessible" asp-for="CustomerId" asp-items="@(new SelectList(ViewBag.Customers , "CustomerId" , "CustomerName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
-                                                          
                                                         </select>
                                                     </div>
                                                 </div>

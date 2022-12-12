@@ -1,0 +1,118 @@
+﻿@model Domains.TbLogisticCompany
+
+<div class="app-content content">
+        <div class="content-overlay"></div>
+        <div class="header-navbar-shadow"></div>
+        <div class="content-wrapper">
+            <div class="content-header row">
+                <div class="content-header-left col-md-9 col-12 mb-2">
+                    <div class="row breadcrumbs-top">
+                        <div class="col-12">
+                           
+                        </div>
+                    </div>
+                </div>
+                <div class="content-header-right text-md-right col-md-3 col-12 d-md-block d-none">
+                    <div class="form-group breadcrum-right">
+                        <div class="dropdown">
+                            <button class="btn-icon btn btn-primary btn-round btn-sm dropdown-toggle waves-effect waves-light" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="feather icon-settings"></i></button>
+                            <div class="dropdown-menu dropdown-menu-right"><a class="dropdown-item" href="#">Chat</a><a class="dropdown-item" href="#">Email</a><a class="dropdown-item" href="#">Calendar</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-body">
+              
+                <!-- // Basic multiple Column Form section start -->
+                <section id="multiple-column-form">
+                    <div class="row match-height">
+                        <div class="col-12">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h4 class="card-title">Multiple Column</h4>
+                                </div>
+                                <div class="card-content">
+                                    <div class="card-body">
+                                    <form enctype="multipart/form-data" method="post" role="form" asp-controller="TransactionLogisticCompany" asp-action="MoveTurkeyTwo" class="form">
+                                            <div class="form-body">
+                                                <div class="row">
+
+                                                
+                                                    <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                        <input value="@ViewBag.id" name="id" type="hidden" class="form-control">
+                                                        <select class="select2 form-control select2-hidden-accessible" asp-for="LogisticCompanyId" asp-items="@(new SelectList( ViewBag.lstLogistics , "LogisticCompanyId" , "LogisticCompanyName"))" data-select2-id="1" tabindex="-1" aria-hidden="true">
+                                                            </select>
+                                                            <label for="first-name-column"> Customer Name</label>
+                                                        </div>
+                                                    </div>
+                                                
+
+                                                @* <div class="col-md-6 col-12">
+                                                        <div class="form-label-group">
+                                                            <input type="email" id="email-id-column" class="form-control" name="email-id-column" placeholder="Email">
+                                                            <label for="email-id-column">Email</label>
+                                                        </div>
+                                                    </div>*@
+                                                  
+                                                    <div class="col-12">
+                                                    <button id="bounce-in-animation" type="submit" class="btn btn-primary mr-1 mb-1 waves-effect waves-light">Submit</button>
+                                                       
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- // Basic Floating Label Form section end -->
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

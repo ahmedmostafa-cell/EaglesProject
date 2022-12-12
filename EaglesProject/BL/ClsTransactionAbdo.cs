@@ -36,8 +36,11 @@ namespace BL
         {
             try
             {
+              
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
                 item.TransactionAbdoId = Guid.NewGuid();
+                item.CreatedDate = DateTime.Now;
+                item.CurrentState = 1;
                 ctx.TbTransactionAbdos.Add(item);
                 ctx.SaveChanges();
                 return true;
@@ -52,6 +55,10 @@ namespace BL
         {
             try
             {
+                if (item.CurrentState != 0)
+                {
+                    item.CurrentState = 1;
+                }
                 //_4ZsoftwareCompanyTestTaskContext o_4ZsoftwareCompanyTestTaskContext = new _4ZsoftwareCompanyTestTaskContext();
 
                 ctx.Entry(item).State = EntityState.Modified;
